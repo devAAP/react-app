@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 1rem;
+    font-weight: 200;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+
+
+}
+.navbar-home {
+    background-color: #fff!important;
+}
+.logo {
+    height: 70px;
+}
+
+.flag{
+	height: 15px;
+	margin: 0px 5px
+}
+.carousel-content{
+    
+    height: 360px;
+}
+
+.footer{
+	background-color: rgb(8, 8, 88);
+	margin-top: 3rem;
+    margin-bottom: 3rem;
+	text-align: center;
+	padding: 10px 0px;
+}
+.nav-link {
+    font-family: sans-serif;
+    color: grey;
+    font-weight: 400;
+	font-style: bold;
+}
+.new{
+	color: white;
+}
+ .newguy1{
+	 color: rgb(3, 133, 25);
+ }
+.newguy{
+	color: rgb(236, 146, 81);
+}
